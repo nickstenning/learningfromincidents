@@ -19,7 +19,7 @@ the talk are hers, and all of the typos and errors are mine!
 
   * [References](#references)
   * [Recommendations](#recommendations)
-  * [Further reading/viewing](#further-reading-viewing)
+  * [Further reading/viewing](#further-readingviewing)
   * [Even more!](#even-more)
 
 ## References
