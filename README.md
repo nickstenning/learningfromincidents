@@ -8,9 +8,9 @@ This talk was co-written and originally co-presented with [Jessica
 DeVita](https://twitter.com/ubergeekgirl). Most of the meaningful insights in
 the talk are hers, and all of the typos and errors are mine!
 
-> If you're looking for something to do after the talk, we recommend reading
-> the [Etsy Debriefing Guide], particularly pp. 21-23, which give examples of
-> good questions to ask in post-incident reviews.
+> ⚡💡 If you're looking for one thing to do after the talk, we recommend
+> reading the [Etsy Debriefing Guide], particularly pp. 21-23, which give
+> examples of good questions to ask in post-incident reviews. 💡⚡
 
 [SREcon 2019 EMEA]: https://www.usenix.org/conference/srecon19emea/presentation/stenning
 [Etsy Debriefing Guide]: https://aka.ms/etsydebriefing
