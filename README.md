@@ -2,8 +2,9 @@
 
 This repository contains links to resources mentioned in a conference talk on
 **how to learn more effectively from incidents**. I most recently gave this
-talk at [Lead Dev Berlin 2019], and have previously presented it at [SREcon 2019
-EMEA], and internal conferences and events at Microsoft.
+talk at [Agile & Automation Afternoons 2020], and have previously shared it at
+[Lead Dev Berlin 2019] and [SREcon 2019 EMEA], and internal conferences and
+events at Microsoft.
 
 This talk was co-written and originally co-presented with [Jessica
 DeVita](https://twitter.com/ubergeekgirl). Most of the meaningful insights in
@@ -13,6 +14,7 @@ the talk are hers, and all of the typos and errors are mine!
 > reading the [Etsy Debriefing Guide], particularly pp. 21-23, which give
 > examples of good questions to ask in post-incident reviews. 💡⚡
 
+[Agile & Automation Afternoons 2020]: https://aadays.pl/afternoons/
 [Lead Dev Berlin 2019]: https://berlin2019.theleaddeveloper.com/talks#nick-stenning
 [SREcon 2019 EMEA]: https://www.usenix.org/conference/srecon19emea/presentation/stenning
 [Etsy Debriefing Guide]: https://aka.ms/etsydebriefing
